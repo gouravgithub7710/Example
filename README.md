@@ -1,2 +1,0 @@
-# Example
-bus yu hi
